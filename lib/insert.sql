@@ -1,6 +1,6 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-('Alpine Lodge', 'Recreation', 100000, '6/1/16', '12/1/16'),
-('Banana Pies', 'Food', 200000, '9/1/16', '12/1/16'),
+('The Music Box', 'Recreation', 100000, '6/1/16', '12/1/16'),
+('Almond Crunch', 'Food', 200000, '9/1/16', '12/1/16'),
 ('Camel Racing', 'Recreation', 500000, '12/1/16', '12/1/17'),
 ('Duck Breeding', 'Book', 50000, '6/15/16', '8/15/16'),
 ('Elephant Ears', 'Music', 25000, '7/15/16', '12/15/16'),
