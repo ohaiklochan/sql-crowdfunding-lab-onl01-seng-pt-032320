@@ -1,14 +1,14 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
-('The Music Box', 'Recreation', 100000, '6/1/16', '12/1/16'),
-('Almond Crunch', 'Food', 200000, '9/1/16', '12/1/16'),
-('Camel Racing', 'Recreation', 500000, '12/1/16', '12/1/17'),
-('Duck Breeding', 'Book', 50000, '6/15/16', '8/15/16'),
-('Elephant Ears', 'Music', 25000, '7/15/16', '12/15/16'),
-('Franks on a Stick', 'Food', 1000000, '6/1/16', '6/1/17'),
-('Goose in a Box', 'Animals', 5000, '4/1/16', '11/1/16'),
-('Hall of Fame', 'Music', 100000, '6/1/16', '12/1/16'),
-('I Wrote a book on SQL', 'Book', 5000, '9/1/16', '10/1/16'),
-("Just kidding, I didn't", 'Book', 6000, '10/1/16', '12/1/16');
+('The Music Box', 'Recreation', 100000, '6/1/20', '12/1/20'),
+('Almond Crunch', 'Food', 200000, '9/1/20', '12/1/20'),
+('Turtle Racing', 'Recreation', 500000, '12/1/20', '12/1/21'),
+('Duck Watching for Newbies', 'Book', 50000, '6/15/20', '8/15/20'),
+('The Pots and Pans', 'Music', 25000, '7/15/20', '12/15/20'),
+('Pickles on a Stick', 'Food', 1000000, '6/1/20', '6/1/21'),
+('Ferrets', 'Animals', 5000, '4/1/20', '11/1/20'),
+('Inside the Hall of Fame', 'Music', 100000, '6/1/20', '12/1/20'),
+('Why Am I Here?', 'Book', 5000, '9/1/20', '10/1/20'),
+("This is a Semi-Dumb Book Title About Nothing", 'Book', 6000, '10/1/20', '12/1/20');
 
 INSERT INTO users (name, age) VALUES
 ('Finnebar', 17),
